@@ -12,7 +12,7 @@ Wir nutzen GitHub Actions für Continuous Integration, um die Kompatibilität ü
 - **Auslöser**: Bei Push oder Pull Request zum `main`-Branch.
 - **Testmatrix**:
   - **Betriebssysteme**: Ubuntu, Windows, MacOS
-  - **Python-Versionen**: 3.8, 3.9, 3.10, 3.11, 3.12
+  - **Python-Versionen**: 3.11, 3.12, 3.13(dev)
 
 ### Lokale Tests ausführen
 
